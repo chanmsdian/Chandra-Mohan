@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanmsdian" alt="chanmsdian" /></a> </p>
 
-- 🔭 I’m currently working on **Novartis - Patient Service**
+- 🔭 I’m currently working on Salesforce development for  **Novartis - Patient Service**
 
-- 🌱 I’m currently learning **Angular and Aura Frameworks**
+- 🌱 I’m currently learning **Angular, Lightning web component and  Aura Frameworks**
+
+- Completed **Salesforce Certified Admininstrator** and **Salesforce Certified App Builder**
 
 - 📫 How to reach me **chandramohan131198@gmail.com**
 
